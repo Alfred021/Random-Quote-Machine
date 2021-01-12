@@ -1,6 +1,6 @@
 # Random Quote Machine
 
-This project was make with React and Bootstrap for Styles, also uses the [Go Quotes Api](https://goquotes.docs.apiary.io/#) for getting the quotes.
+This project was make with React, Bootstrap for Styles and font awesome for icons, also uses the [Go Quotes Api](https://goquotes.docs.apiary.io/#) for getting the quotes.
 
 # Getting Started with Create React App
 
